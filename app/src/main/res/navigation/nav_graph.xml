@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/menuChat">
+
+    <fragment
+        android:id="@+id/menuChat"
+        android:name="lat.pam.navigationmenu.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/menuMarketplace"
+        android:name="lat.pam.navigationmenu.MarktplaceFragment"
+        android:label="Marketplace"
+        tools:layout="@layout/fragment_marktplace" />
+    <fragment
+        android:id="@+id/menuPesan"
+        android:name="lat.pam.navigationmenu.CheckFragment"
+        android:label="Check"
+        tools:layout="@layout/fragment_check" />
+    <fragment
+        android:id="@+id/menuArsip"
+        android:name="lat.pam.navigationmenu.SettingFragment"
+        android:label="Setting"
+        tools:layout="@layout/fragment_setting" />
+</navigation>

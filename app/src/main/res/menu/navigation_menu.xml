@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuChat"
+        android:icon="@drawable/obrolan"
+        android:title="@string/chat"/>
+    <item
+        android:id="@+id/menuMarketplace"
+        android:icon="@drawable/marketplacefb"
+        android:title="@string/marketplace"/>
+    <item
+        android:id="@+id/menuPesan"
+        android:icon="@drawable/pesan"
+        android:title="@string/permintaan_pesan"/>
+    <item
+        android:id="@+id/menuArsip"
+        android:icon="@drawable/arsip"
+        android:title="@string/arsip"/>
+
+
+</menu>

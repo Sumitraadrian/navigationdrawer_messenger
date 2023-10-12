@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="navigation_menu">Obrolan</string>
+    <string name="home">Home</string>
+    <string name="chat">Chat</string>
+    <string name="notification">notification</string>
+    <string name="profile">profile</string>
+    <string name="other">Other</string>
+    <string name="question">Question</string>
+    <string name="name">Valentino Rossi</string>
+    <string name="verified">verified</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="permintaan_pesan">Permintaan pesan</string>
+    <string name="marketplace">Marketplace</string>
+    <string name="arsip">Arsip</string>
+</resources>
