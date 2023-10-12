@@ -11,7 +11,7 @@ Anggota :
 <img src="ScreenshootAplikasi/navigation drawer.jpg">
 
 ### 2. Tampilan fitur Obrolan
-<img src ="ScreenshootAplikasi/fragment arsip.jpg">
+<img src ="ScreenshootAplikasi/fragment fitur obrolan.jpg">
 
 ### 3. Tampilan fitur Marketplace
 <img src ="ScreenshootAplikasi/fragment fitur marketplace.jpg">
