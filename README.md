@@ -8,5 +8,5 @@ Anggota :
 
 ## Tampilan Aplikasi
 ### 1. Tampilan fitur Obrolan
-![fragmen arsip.jpg](ScreenshootAplikasi/fragment arsip.jpg)
+<img src ="ScreenshootAplikasi/fragment arsip.jpg">
 
